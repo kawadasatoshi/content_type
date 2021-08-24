@@ -1,0 +1,2155 @@
+[
+    {
+        "created_at": "Wed Aug 04 17:00:05 +0000 2021",
+        "id": 1422965576813580292,
+        "id_str": "1422965576813580292",
+        "text": "これは、新しい＃Windows11 SnippingToolの最初の外観です。すぐに#WindowsInsidersに来ます！チームからの素晴らしい仕事…https：//t.co/FUPJTjMyzV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        32,
+                        42
+                    ]
+                },
+                {
+                    "text": "WindowsInsiders",
+                    "indices": [
+                        68,
+                        84
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FUPJTjMyzV",
+                    "expanded_url": "https://twitter.com/i/web/status/1422965576813580292",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20416077,
+            "id_str": "20416077",
+            "name": "Panos Panay",
+            "screen_name": "panos_panay",
+            "location": "Redmond, WA",
+            "description": "Chief Product Officer @Microsoft with a passion for innovation. Windows + Devices. Husband and father of 4.",
+            "url": "https://t.co/ld4KJdxnk9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ld4KJdxnk9",
+                            "expanded_url": "https://www.instagram.com/panospanay/",
+                            "display_url": "instagram.com/panospanay/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 80268,
+            "friends_count": 408,
+            "listed_count": 939,
+            "created_at": "Mon Feb 09 04:34:41 +0000 2009",
+            "favourites_count": 3466,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1738,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20416077/1622656599",
+            "profile_link_color": "666666",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "0084B4",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 331,
+        "favorite_count": 2101,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 29 17:14:45 +0000 2021",
+        "id": 1420794940452343812,
+        "id_str": "1420794940452343812",
+        "text": "開発チャネル＃WindowsInsiders-今週、新しい＃Windows11ビルドはありません。 :(ただし、切り替えを検討している場合は…https：//t.co/AZCsRp3ISM",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WindowsInsiders",
+                    "indices": [
+                        12,
+                        28
+                    ]
+                },
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        38,
+                        48
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/AZCsRp3ISM",
+                    "expanded_url": "https://twitter.com/i/web/status/1420794940452343812",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2903837358,
+            "id_str": "2903837358",
+            "name": "Windows Insider",
+            "screen_name": "windowsinsider",
+            "location": "Microsoft Corporation ",
+            "description": "Official Twitter of the Windows Insider Program, a community of tech enthusiasts and experts, IT pros, and developers helping to shape the future of @Windows.",
+            "url": "https://t.co/2bVdMwXv64",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bVdMwXv64",
+                            "expanded_url": "https://insider.windows.com/",
+                            "display_url": "insider.windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 121741,
+            "friends_count": 256,
+            "listed_count": 1215,
+            "created_at": "Tue Nov 18 18:10:59 +0000 2014",
+            "favourites_count": 11196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13757,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1624550961",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 167,
+        "favorite_count": 813,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 05 18:03:10 +0000 2021",
+        "id": 1423343837934546946,
+        "id_str": "1423343837934546946",
+        "text": "チームからの別の最初の外観...＃Windows11の#FocusSessionsがまもなく登場します。これは私にとってゲームチェンジャーでした、e…https：//t.co/PWSwun2ghN",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FocusSessions",
+                    "indices": [
+                        35,
+                        49
+                    ]
+                },
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        53,
+                        63
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PWSwun2ghN",
+                    "expanded_url": "https://twitter.com/i/web/status/1423343837934546946",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20416077,
+            "id_str": "20416077",
+            "name": "Panos Panay",
+            "screen_name": "panos_panay",
+            "location": "Redmond, WA",
+            "description": "Chief Product Officer @Microsoft with a passion for innovation. Windows + Devices. Husband and father of 4.",
+            "url": "https://t.co/ld4KJdxnk9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ld4KJdxnk9",
+                            "expanded_url": "https://www.instagram.com/panospanay/",
+                            "display_url": "instagram.com/panospanay/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 80268,
+            "friends_count": 408,
+            "listed_count": 939,
+            "created_at": "Mon Feb 09 04:34:41 +0000 2009",
+            "favourites_count": 3466,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1738,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20416077/1622656599",
+            "profile_link_color": "666666",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "0084B4",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 155,
+        "favorite_count": 898,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 05 17:05:01 +0000 2021",
+        "id": 1423329204536373249,
+        "id_str": "1423329204536373249",
+        "text": "開発チャネルとベータチャネルの両方で#WindowsInsidersを紹介します-＃Windows11ビルド22000.120が公開されています…https：//t.co/S4bH93vEpQ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WindowsInsiders",
+                    "indices": [
+                        9,
+                        25
+                    ]
+                },
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        62,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/S4bH93vEpQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1423329204536373249",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2903837358,
+            "id_str": "2903837358",
+            "name": "Windows Insider",
+            "screen_name": "windowsinsider",
+            "location": "Microsoft Corporation ",
+            "description": "Official Twitter of the Windows Insider Program, a community of tech enthusiasts and experts, IT pros, and developers helping to shape the future of @Windows.",
+            "url": "https://t.co/2bVdMwXv64",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bVdMwXv64",
+                            "expanded_url": "https://insider.windows.com/",
+                            "display_url": "insider.windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 121741,
+            "friends_count": 256,
+            "listed_count": 1215,
+            "created_at": "Tue Nov 18 18:10:59 +0000 2014",
+            "favourites_count": 11196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13757,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1624550961",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 133,
+        "favorite_count": 545,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 29 17:06:59 +0000 2021",
+        "id": 1420792985235574788,
+        "id_str": "1420792985235574788",
+        "text": "ベータチャンネル-準備完了です。 ＃Windows11プレビュービルド22000.100がベータチャンの#WindowsInsidersで利用可能になりました…https：//t.co/eq9eQnEB5S",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        26,
+                        36
+                    ]
+                },
+                {
+                    "text": "WindowsInsiders",
+                    "indices": [
+                        81,
+                        97
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/eq9eQnEB5S",
+                    "expanded_url": "https://twitter.com/i/web/status/1420792985235574788",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2903837358,
+            "id_str": "2903837358",
+            "name": "Windows Insider",
+            "screen_name": "windowsinsider",
+            "location": "Microsoft Corporation ",
+            "description": "Official Twitter of the Windows Insider Program, a community of tech enthusiasts and experts, IT pros, and developers helping to shape the future of @Windows.",
+            "url": "https://t.co/2bVdMwXv64",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bVdMwXv64",
+                            "expanded_url": "https://insider.windows.com/",
+                            "display_url": "insider.windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 121741,
+            "friends_count": 256,
+            "listed_count": 1215,
+            "created_at": "Tue Nov 18 18:10:59 +0000 2014",
+            "favourites_count": 11196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13757,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1624550961",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 129,
+        "favorite_count": 558,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 29 20:00:23 +0000 2021",
+        "id": 1420836623370031111,
+        "id_str": "1420836623370031111",
+        "text": "充実したオペレーティングシステムは、ただ起こるだけではありません。 ＃Windows11を設計した人々から聞いてください…https：//t.co/bkCBhQUJdM",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        86,
+                        96
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bkCBhQUJdM",
+                    "expanded_url": "https://twitter.com/i/web/status/1420836623370031111",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        98,
+                        121
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15670515,
+            "id_str": "15670515",
+            "name": "Windows",
+            "screen_name": "Windows",
+            "location": "Redmond, Washington",
+            "description": "Brings you closer to what you love.",
+            "url": "https://t.co/s7xaOxoLL2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/s7xaOxoLL2",
+                            "expanded_url": "http://Windows.com",
+                            "display_url": "Windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6506705,
+            "friends_count": 1359,
+            "listed_count": 19757,
+            "created_at": "Thu Jul 31 03:43:16 +0000 2008",
+            "favourites_count": 2580,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 356124,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "00BCF2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408089447455891461/hwvI8tM1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408089447455891461/hwvI8tM1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15670515/1624643536",
+            "profile_link_color": "00BCF2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F9FFE5",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 88,
+        "favorite_count": 749,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Aug 03 18:45:01 +0000 2021",
+        "id": 1422629597934497793,
+        "id_str": "1422629597934497793",
+        "text": "2021年の終わりに発売されたときに＃Windows11を無料で入手できることをご存知ですか？\n\nあなたがエリジであるかどうか調べてください…https：//t.co/tBjgHB3ZNN",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        32,
+                        42
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tBjgHB3ZNN",
+                    "expanded_url": "https://twitter.com/i/web/status/1422629597934497793",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20578969,
+            "id_str": "20578969",
+            "name": "CCleaner",
+            "screen_name": "CCleaner",
+            "location": "London, England",
+            "description": "CCleaner protects your privacy and makes your devices safe, fast and fun to use with our optimization apps and a secure browser.",
+            "url": "https://t.co/XJcgzM6M8S",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/XJcgzM6M8S",
+                            "expanded_url": "http://www.ccleaner.com",
+                            "display_url": "ccleaner.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 25533,
+            "friends_count": 144,
+            "listed_count": 451,
+            "created_at": "Wed Feb 11 08:42:25 +0000 2009",
+            "favourites_count": 333,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 5176,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/955452238000021505/HLZ5jlOA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/955452238000021505/HLZ5jlOA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20578969/1625147153",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 80,
+        "favorite_count": 1974,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Aug 02 22:20:02 +0000 2021",
+        "id": 1422321319404720128,
+        "id_str": "1422321319404720128",
+        "text": "Windows 11のWebサイト内➡️https：//t.co/wzHxiPp5krがさらに8つの言語で利用可能になりました！\n舞台裏をチェックしてください…https：//t.co/P2vVs1ELfG",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wzHxiPp5kr",
+                    "expanded_url": "https://aka.ms/AAdc74j",
+                    "display_url": "aka.ms/AAdc74j",
+                    "indices": [
+                        28,
+                        51
+                    ]
+                },
+                {
+                    "url": "https://t.co/P2vVs1ELfG",
+                    "expanded_url": "https://twitter.com/i/web/status/1422321319404720128",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2903837358,
+            "id_str": "2903837358",
+            "name": "Windows Insider",
+            "screen_name": "windowsinsider",
+            "location": "Microsoft Corporation ",
+            "description": "Official Twitter of the Windows Insider Program, a community of tech enthusiasts and experts, IT pros, and developers helping to shape the future of @Windows.",
+            "url": "https://t.co/2bVdMwXv64",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bVdMwXv64",
+                            "expanded_url": "https://insider.windows.com/",
+                            "display_url": "insider.windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 121741,
+            "friends_count": 256,
+            "listed_count": 1215,
+            "created_at": "Tue Nov 18 18:10:59 +0000 2014",
+            "favourites_count": 11196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13757,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1624550961",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 56,
+        "favorite_count": 341,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Jul 31 14:16:24 +0000 2021",
+        "id": 1421474831976042501,
+        "id_str": "1421474831976042501",
+        "text": "ウィジェットはWindows11の新機能であり、お気に入りのトップライン情報を簡単に確認できます…https：//t.co/fBYRK7clVo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/fBYRK7clVo",
+                    "expanded_url": "https://twitter.com/i/web/status/1421474831976042501",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2903837358,
+            "id_str": "2903837358",
+            "name": "Windows Insider",
+            "screen_name": "windowsinsider",
+            "location": "Microsoft Corporation ",
+            "description": "Official Twitter of the Windows Insider Program, a community of tech enthusiasts and experts, IT pros, and developers helping to shape the future of @Windows.",
+            "url": "https://t.co/2bVdMwXv64",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bVdMwXv64",
+                            "expanded_url": "https://insider.windows.com/",
+                            "display_url": "insider.windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 121741,
+            "friends_count": 256,
+            "listed_count": 1215,
+            "created_at": "Tue Nov 18 18:10:59 +0000 2014",
+            "favourites_count": 11196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13757,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1624550961",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 48,
+        "favorite_count": 325,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 30 17:48:18 +0000 2021",
+        "id": 1421165770013347841,
+        "id_str": "1421165770013347841",
+        "text": "PowerDesktopがまもなくMicrosoftStoreに登場します!!!\nしばらくお待ちください!!! 🎉🎉🎉\n\n@ウィンドウズ\n@windowsdev\n@WindowsDocs\n@ panos_panay…https：//t.co/0OGzlu6Jvi",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Windows",
+                    "name": "Windows",
+                    "id": 15670515,
+                    "id_str": "15670515",
+                    "indices": [
+                        66,
+                        74
+                    ]
+                },
+                {
+                    "screen_name": "windowsdev",
+                    "name": "Windows Developer",
+                    "id": 16334724,
+                    "id_str": "16334724",
+                    "indices": [
+                        76,
+                        87
+                    ]
+                },
+                {
+                    "screen_name": "WindowsDocs",
+                    "name": "Windows Dev Docs",
+                    "id": 737767282579898369,
+                    "id_str": "737767282579898369",
+                    "indices": [
+                        89,
+                        101
+                    ]
+                },
+                {
+                    "screen_name": "panos_panay",
+                    "name": "Panos Panay",
+                    "id": 20416077,
+                    "id_str": "20416077",
+                    "indices": [
+                        103,
+                        115
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/0OGzlu6Jvi",
+                    "expanded_url": "https://twitter.com/i/web/status/1421165770013347841",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1324670384919203840,
+            "id_str": "1324670384919203840",
+            "name": "Dmitriy Borodiy",
+            "screen_name": "DmitriyJulia",
+            "location": "Украина",
+            "description": "@JuliaaaDoctor\nHappy together💝💖💝💖💝💖💝💖💖\nDmitriy Borodiy - Student/.NET Developer/Windows developer (WPF, UWP, WinUI) 👨‍💻👨‍💻👨‍💻",
+            "url": "https://t.co/t0oXonUTnQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/t0oXonUTnQ",
+                            "expanded_url": "https://github.com/DmitryBorodiy",
+                            "display_url": "github.com/DmitryBorodiy",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 63,
+            "friends_count": 223,
+            "listed_count": 1,
+            "created_at": "Fri Nov 06 11:10:19 +0000 2020",
+            "favourites_count": 1898,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 529,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407756487401873410/OJ6YO3pB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407756487401873410/OJ6YO3pB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324670384919203840/1624493565",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 156,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Aug 03 16:41:29 +0000 2021",
+        "id": 1422598507492347905,
+        "id_str": "1422598507492347905",
+        "text": "＃Windows11のアクセシビリティ機能について学びます。 「新しいコントラストテーマ」を作成し、bacをもたらした理由と方法をご覧ください…https：//t.co/UhNM0IexHW",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        42,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/UhNM0IexHW",
+                    "expanded_url": "https://twitter.com/i/web/status/1422598507492347905",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2903837358,
+            "id_str": "2903837358",
+            "name": "Windows Insider",
+            "screen_name": "windowsinsider",
+            "location": "Microsoft Corporation ",
+            "description": "Official Twitter of the Windows Insider Program, a community of tech enthusiasts and experts, IT pros, and developers helping to shape the future of @Windows.",
+            "url": "https://t.co/2bVdMwXv64",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2bVdMwXv64",
+                            "expanded_url": "https://insider.windows.com/",
+                            "display_url": "insider.windows.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 121741,
+            "friends_count": 256,
+            "listed_count": 1215,
+            "created_at": "Tue Nov 18 18:10:59 +0000 2014",
+            "favourites_count": 11196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13757,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408138738190852096/s1lk_OsY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1624550961",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 151,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 29 20:10:20 +0000 2021",
+        "id": 1420839125498876258,
+        "id_str": "1420839125498876258",
+        "text": "それが起こっています...\n\n＃Windows11がWindowsInsiderベータチャネルにヒットしたようです😳\n\nウェルプ、それがどれほど安定しているか見てみましょう…https：//t.co/KC6nw874jo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        25,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KC6nw874jo",
+                    "expanded_url": "https://twitter.com/i/web/status/1420839125498876258",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1537083554,
+            "id_str": "1537083554",
+            "name": "David Cogen",
+            "screen_name": "theunlockr",
+            "location": "New York, NY",
+            "description": "An unhealthy love for #travel, #food, & #tech | Nerdy guy behind https://t.co/M6rDj9qe8y & https://t.co/PifrnjEOc8 | IG/Snap/FB - @theunlockr",
+            "url": "https://t.co/oC9IuCjl0d",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oC9IuCjl0d",
+                            "expanded_url": "https://youtube.com/theunlockr",
+                            "display_url": "youtube.com/theunlockr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/M6rDj9qe8y",
+                            "expanded_url": "http://TheUnlockr.com",
+                            "display_url": "TheUnlockr.com",
+                            "indices": [
+                                65,
+                                88
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/PifrnjEOc8",
+                            "expanded_url": "http://YouTube.com/TheUnlockr",
+                            "display_url": "YouTube.com/TheUnlockr",
+                            "indices": [
+                                91,
+                                114
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 46015,
+            "friends_count": 954,
+            "listed_count": 204,
+            "created_at": "Fri Jun 21 18:29:18 +0000 2013",
+            "favourites_count": 31370,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13796,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/795416207138508801/IseIuJ39_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/795416207138508801/IseIuJ39_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1537083554/1489356656",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 216,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 05 02:43:50 +0000 2021",
+        "id": 1423112483858903041,
+        "id_str": "1423112483858903041",
+        "text": "さようなら古いSnippingTool、あなたは役に立ちましたが、正直に言うと...あなたのスケッチ機能は最高ではありませんでした。そろそろ…https：//t.co/Ttv6tXUHCi",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ttv6tXUHCi",
+                    "expanded_url": "https://twitter.com/i/web/status/1423112483858903041",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 108743439,
+            "id_str": "108743439",
+            "name": "Rudy Huyn",
+            "screen_name": "RudyHuyn",
+            "location": "Redmond",
+            "description": "Principal Architect of the @Microsoft Store. \nWas @Dropbox, 6Studio and the secret developer of many of your favorite apps",
+            "url": "https://t.co/hxVhYsLYAm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hxVhYsLYAm",
+                            "expanded_url": "http://www.rudyhuyn.com/blog",
+                            "display_url": "rudyhuyn.com/blog",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 35730,
+            "friends_count": 408,
+            "listed_count": 500,
+            "created_at": "Tue Jan 26 22:54:21 +0000 2010",
+            "favourites_count": 818,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 18760,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/912486938216603648/NMYXR44u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/912486938216603648/NMYXR44u_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108743439/1567761016",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1422965576813580292,
+        "quoted_status_id_str": "1422965576813580292",
+        "quoted_status": {
+            "created_at": "Wed Aug 04 17:00:05 +0000 2021",
+            "id": 1422965576813580292,
+            "id_str": "1422965576813580292",
+            "text": "Here is a first look at the new #Windows11 Snipping Tool. Coming to #WindowsInsiders soon! Great work from the team… https://t.co/FUPJTjMyzV",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            32,
+                            42
+                        ]
+                    },
+                    {
+                        "text": "WindowsInsiders",
+                        "indices": [
+                            68,
+                            84
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/FUPJTjMyzV",
+                        "expanded_url": "https://twitter.com/i/web/status/1422965576813580292",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20416077,
+                "id_str": "20416077",
+                "name": "Panos Panay",
+                "screen_name": "panos_panay",
+                "location": "Redmond, WA",
+                "description": "Chief Product Officer @Microsoft with a passion for innovation. Windows + Devices. Husband and father of 4.",
+                "url": "https://t.co/ld4KJdxnk9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ld4KJdxnk9",
+                                "expanded_url": "https://www.instagram.com/panospanay/",
+                                "display_url": "instagram.com/panospanay/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 80268,
+                "friends_count": 408,
+                "listed_count": 939,
+                "created_at": "Mon Feb 09 04:34:41 +0000 2009",
+                "favourites_count": 3466,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 1738,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20416077/1622656599",
+                "profile_link_color": "666666",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "0084B4",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 331,
+            "favorite_count": 2101,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 9,
+        "favorite_count": 160,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Jul 31 00:02:53 +0000 2021",
+        "id": 1421260039633838081,
+        "id_str": "1421260039633838081",
+        "text": "Eeep＃Windows11がメインのラップトップにインストールされています！ @JenMsft https://t.co/IS92ZiHyfy",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Windows11",
+                    "indices": [
+                        5,
+                        15
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JenMsft",
+                    "name": "Jen Gentleman 🌺",
+                    "id": 3309105596,
+                    "id_str": "3309105596",
+                    "indices": [
+                        45,
+                        53
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1421260034747486208,
+                    "id_str": "1421260034747486208",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E7lUeLCVUAAPred.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E7lUeLCVUAAPred.jpg",
+                    "url": "https://t.co/IS92ZiHyfy",
+                    "display_url": "pic.twitter.com/IS92ZiHyfy",
+                    "expanded_url": "https://twitter.com/naomi_t_81/status/1421260039633838081/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 768,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 768,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1421260034747486208,
+                    "id_str": "1421260034747486208",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E7lUeLCVUAAPred.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E7lUeLCVUAAPred.jpg",
+                    "url": "https://t.co/IS92ZiHyfy",
+                    "display_url": "pic.twitter.com/IS92ZiHyfy",
+                    "expanded_url": "https://twitter.com/naomi_t_81/status/1421260039633838081/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 768,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 768,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 822581170353426432,
+            "id_str": "822581170353426432",
+            "name": "Naomi Elle",
+            "screen_name": "naomi_t_81",
+            "location": "Sydney, New South Wales",
+            "description": "Entrepreneur, Lover of all things tech. NBN Enthusiast, Married to an amazing woman. she/her",
+            "url": "https://t.co/WN5aZzsDzq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WN5aZzsDzq",
+                            "expanded_url": "http://www.instagram.com/naomitesta_",
+                            "display_url": "instagram.com/naomitesta_",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1581,
+            "friends_count": 236,
+            "listed_count": 4,
+            "created_at": "Fri Jan 20 23:06:48 +0000 2017",
+            "favourites_count": 44791,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4763,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406183177320755202/wTtiGZkS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406183177320755202/wTtiGZkS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/822581170353426432/1567943580",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 193,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 30 19:43:50 +0000 2021",
+        "id": 1421194847935991818,
+        "id_str": "1421194847935991818",
+        "text": "2015年にWindows10が、並外れたものによって作成された象徴的な背景をリリースしたその日を今でも覚えています…https：//t.co/Jfwy5GiBdO",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Jfwy5GiBdO",
+                    "expanded_url": "https://twitter.com/i/web/status/1421194847935991818",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 842324874609713152,
+            "id_str": "842324874609713152",
+            "name": "Six N. Five",
+            "screen_name": "sixnfive",
+            "location": "Barcelona, Spain",
+            "description": "Images, Films, and Objects maker. \nBorn in Bs. As. - Established in Barcelona.\nhttps://t.co/fcEAIVxoCy\nhttps://t.co/leK0S2Z4kJ\nhttps://t.co/1JBgLC4d6U",
+            "url": "https://t.co/5jwUWWt0lX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5jwUWWt0lX",
+                            "expanded_url": "http://www.sixnfive.com",
+                            "display_url": "sixnfive.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fcEAIVxoCy",
+                            "expanded_url": "http://instagram.com/sixnfive",
+                            "display_url": "instagram.com/sixnfive",
+                            "indices": [
+                                79,
+                                102
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/leK0S2Z4kJ",
+                            "expanded_url": "http://superrare.co/sixnfive",
+                            "display_url": "superrare.co/sixnfive",
+                            "indices": [
+                                103,
+                                126
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/1JBgLC4d6U",
+                            "expanded_url": "http://niftygateway.com/profile/sixnfive",
+                            "display_url": "niftygateway.com/profile/sixnfi…",
+                            "indices": [
+                                127,
+                                150
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 10308,
+            "friends_count": 708,
+            "listed_count": 148,
+            "created_at": "Thu Mar 16 10:41:14 +0000 2017",
+            "favourites_count": 4129,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1121,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/842328230510108674/n-770Bj1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/842328230510108674/n-770Bj1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/842324874609713152/1617126339",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1417964958042574848,
+        "quoted_status_id_str": "1417964958042574848",
+        "quoted_status": {
+            "created_at": "Wed Jul 21 21:49:25 +0000 2021",
+            "id": 1417964958042574848,
+            "id_str": "1417964958042574848",
+            "text": "In #Windows11, we put you at the center with a cloud powered Start experience, serving the documents and apps you w… https://t.co/EVZrABWToG",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/EVZrABWToG",
+                        "expanded_url": "https://twitter.com/i/web/status/1417964958042574848",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20416077,
+                "id_str": "20416077",
+                "name": "Panos Panay",
+                "screen_name": "panos_panay",
+                "location": "Redmond, WA",
+                "description": "Chief Product Officer @Microsoft with a passion for innovation. Windows + Devices. Husband and father of 4.",
+                "url": "https://t.co/ld4KJdxnk9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ld4KJdxnk9",
+                                "expanded_url": "https://www.instagram.com/panospanay/",
+                                "display_url": "instagram.com/panospanay/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 80268,
+                "friends_count": 408,
+                "listed_count": 939,
+                "created_at": "Mon Feb 09 04:34:41 +0000 2009",
+                "favourites_count": 3466,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 1738,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336103319962468352/lRDPEkDH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20416077/1622656599",
+                "profile_link_color": "666666",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "0084B4",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 121,
+            "favorite_count": 980,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 6,
+        "favorite_count": 115,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
